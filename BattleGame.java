@@ -1,4 +1,3 @@
-//Name: Jinyu JIAO    Student ID: 260881046
 import java.util.*;
 
 
