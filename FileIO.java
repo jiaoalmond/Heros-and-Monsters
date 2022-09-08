@@ -1,5 +1,3 @@
-//Name: Jinyu JIAO    Student ID: 260881046
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
